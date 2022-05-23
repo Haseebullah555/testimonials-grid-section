@@ -23,6 +23,8 @@ span {
   font-size: 14px;
   color: var(--very-dark-grayish-blue);
 }
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
 /* avators styling */
 #container{
     display: grid;
